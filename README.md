@@ -1,4 +1,4 @@
-# Hi, I'm Valentino 👋
+# Hi, I'm Edwin Valentino 👋
 
 I'm a Systems Engineering student from Peru, currently building my foundations in software development and computer science.
 
