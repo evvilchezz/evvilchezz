@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Valentino 👋
 
-<!--
-**evvilchezz/evvilchezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems Engineering student from Peru, currently building my foundations in software development and computer science.
 
-Here are some ideas to get you started:
+## Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Software Development
+- Data Structures & Algorithms
+- Databases
+- Software Engineering
+- Git & GitHub
+
+## Projects
+
+I'm currently working on university and personal projects that will be documented here as they develop.
+
